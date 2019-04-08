@@ -1,5 +1,6 @@
 # android
 Bài tập lớn Android quản lý nhà hàng.
+Vì lưu trong database nên khi sang máy khác phải tự thêm dữ liệu vào.
 Với 2 tài khoản đăng nhập.
 Tài khoản đăng nhâp:
 +Quản lý: admin - 123
