@@ -1,7 +1,9 @@
 # android
 Bài tập lớn Android quản lý nhà hàng. <br/>
 Vì lưu trong database nên khi sang máy khác phải tự thêm dữ liệu vào.  <br/>
-Với 2 tài khoản đăng nhập. Tài khoản đăng nhâp: +Quản lý: admin - 123 +Nhân Viên: nhanvien - 123   <br/>
+Với 2 tài khoản đăng nhập.  <br/>
+Tài khoản đăng nhâp: +Quản lý: admin - 123  <br/>
++Nhân Viên: nhanvien - 123   <br/>
 App quản lý nhà hàng nếu chưa đăng nhập sẽ chuyển sang trang đăng nhập.  <br/>
 -Nếu đăng nhập với tài khoản quản trị viên. Ta có thể thực hiện tất cả chức năng quản lý:  <br/>
 +Với quản lý món ăn: có thể thực hiện thêm, sửa, xóa món ăn.  <br/>
