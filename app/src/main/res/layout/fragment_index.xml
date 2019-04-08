@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EEE4A9">
+    <TextView
+        android:id="@+id/tv_index"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="NHÀ HÀNG DẠ HƯƠNG"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:textSize="30dp"
+        android:textColor="#005FB8"
+        android:textStyle="bold"/>
+    <ImageView
+        android:id="@+id/img_index"
+        android:layout_marginTop="40dp"
+        android:layout_below="@id/tv_index"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:src="@drawable/nhahang"/>
+</RelativeLayout>

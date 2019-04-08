@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/tvtenmonan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tên Món Ăn"
+        android:textSize="16dp"
+        android:textStyle="bold"
+        android:textColor="#123"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="50dp"/>
+    <EditText
+        android:id="@+id/edttenmonan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/tvtenmonan"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="50dp"/>
+    <TextView
+        android:id="@+id/tvgiamonan"
+        android:layout_below="@id/edttenmonan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Giá"
+        android:textSize="16dp"
+        android:textStyle="bold"
+        android:textColor="#123"
+        android:layout_marginLeft="20dp"/>
+    <EditText
+        android:id="@+id/edtgiamonan"
+        android:layout_below="@id/edttenmonan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/tvtenmonan"
+        android:layout_alignParentRight="true"
+        android:inputType="number"/>
+    <Button
+        android:id="@+id/btnThemMonAn"
+        android:layout_below="@id/edtgiamonan"
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="THÊM MÓN"
+        android:background="#0F5FAC"
+        android:textColor="#FFF"/>
+</RelativeLayout>

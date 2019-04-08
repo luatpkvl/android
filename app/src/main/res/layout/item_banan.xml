@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView android:layout_height="110dp"
+    android:layout_width="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="10dp"
+    app:cardUseCompatPadding="true"
+    android:layout_marginTop="8px"
+    android:layout_margin="5dp">
+
+    <RelativeLayout
+        android:id="@+id/background_ban"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:background="#A0EE6F">
+
+        <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="150dp"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true">
+
+            <ImageView
+                android:id="@+id/img_monan"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_below="@id/tvtenban"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/ban" />
+            <TextView
+                android:id="@+id/tvtenban"
+                android:layout_width="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_height="wrap_content"
+                android:text="1"
+                android:textColor="#3E4640"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+            <ImageView
+                android:id="@+id/btn_del_ban"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="2dp"
+                android:layout_marginRight="2dp"
+                android:layout_marginLeft="130dp"
+                android:src="@drawable/close" />
+        </RelativeLayout>
+    </RelativeLayout>
+</android.support.v7.widget.CardView>
