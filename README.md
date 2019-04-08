@@ -12,18 +12,23 @@ App quản lý nhà hàng nếu chưa đăng nhập sẽ chuyển sang trang đ�
 -Nếu đăng nhập với tài khoản nhân viên:
   +Nhân viên chỉ có 1 chức năng duy nhất là đặt bàn và chờ khách yêu cầu thanh toán.
 Các ảnh minh họa
-<img src="https://imgur.com/S2MplpK"/>
-<img src="https://imgur.com/SjT2gHs"/>
-<img src="https://imgur.com/SxbWJGf"/>
-<img src="https://imgur.com/9h6OUfX"/>
-<img src="https://imgur.com/azyScPd"/>
-<img src="https://imgur.com/O96dfpI"/>
-<img src="https://imgur.com/iZSCf7B"/>
-<img src="https://imgur.com/1rD24ha"/>
-<img src="https://imgur.com/nZSRhmV"/>
-<img src="https://imgur.com/EcOozNi"/>
-<img src="https://imgur.com/eOLbDZJ"/>
-<img src="https://imgur.com/J4TQbXO"/>
-<img src="https://imgur.com/5lT2LvR"/>
-<img src="https://imgur.com/vz6rF3E"/>
-<img src="https://imgur.com/warnP5U"/>
+<img src="https://i.imgur.com/warnP5U.png" height="200"/>
+<br/>
+<img src="https://i.imgur.com/SjT2gHs.png" height="200" />
+<br/>
+<img src="https://i.imgur.com/SxbWJGf.png" height="200"/>
+<br/>
+<img src="https://i.imgur.com/9h6OUfX.png" height="200"/>
+<br/>
+<img src="https://i.imgur.com/azyScPd.png" height="200"/>
+<br/>
+<img src="https://i.imgur.com/O96dfpI.png" height="200"/><br/>
+<img src="https://i.imgur.com/iZSCf7B.png" height="200"/><br/>
+<img src="https://i.imgur.com/1rD24ha.png" height="200"/><br/>
+<img src="https://i.imgur.com/nZSRhmV.png" height="200"/><br/>
+<img src="https://i.imgur.com/EcOozNi.png" height="200"/><br/>
+<img src="https://i.imgur.com/eOLbDZJ.png" height="200"/><br/>
+<img src="https://i.imgur.com/J4TQbXO.png" height="200"/><br/>
+<img src="https://i.imgur.com/5lT2LvR.png" height="200"/><br/>
+<img src="https://i.imgur.com/vz6rF3E.png" height="200"/><br/>
+<img src="https://i.imgur.com/warnP5U.png" height="200"/><br/>
