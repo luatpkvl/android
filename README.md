@@ -11,3 +11,19 @@ App quản lý nhà hàng nếu chưa đăng nhập sẽ chuyển sang trang đ�
   +Chức năng thống kê doanh thu: thống kê theo từng món theo số lượng và tổng tiền. THống kê tổng số món và thống kê món nào được đặt nhiều nhất để quản lý được biết và từ đó có thể yêu cầu làm nhiều món đó hơn.
 -Nếu đăng nhập với tài khoản nhân viên:
   +Nhân viên chỉ có 1 chức năng duy nhất là đặt bàn và chờ khách yêu cầu thanh toán.
+Các ảnh minh họa
+<img src="https://imgur.com/S2MplpK"/>
+<img src="https://imgur.com/SjT2gHs"/>
+<img src="https://imgur.com/SxbWJGf"/>
+<img src="https://imgur.com/9h6OUfX"/>
+<img src="https://imgur.com/azyScPd"/>
+<img src="https://imgur.com/O96dfpI"/>
+<img src="https://imgur.com/iZSCf7B"/>
+<img src="https://imgur.com/1rD24ha"/>
+<img src="https://imgur.com/nZSRhmV"/>
+<img src="https://imgur.com/EcOozNi"/>
+<img src="https://imgur.com/eOLbDZJ"/>
+<img src="https://imgur.com/J4TQbXO"/>
+<img src="https://imgur.com/5lT2LvR"/>
+<img src="https://imgur.com/vz6rF3E"/>
+<img src="https://imgur.com/warnP5U"/>
